@@ -1,0 +1,11 @@
+marisa-trie
+mongoengine
+redis
+langcodes
+ipaddress
+fakeredis
+mongomock
+python-consul
+kt-ds-core
+kt-ds-api
+boto3
